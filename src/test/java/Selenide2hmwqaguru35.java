@@ -5,7 +5,7 @@ import static com.codeborne.selenide.Condition.text;
 import static com.codeborne.selenide.Selectors.byText;
 import static com.codeborne.selenide.Selenide.*;
 
-public class Selenide2_hmw_qaguru35 {
+public class Selenide2hmwqaguru35 {
     @BeforeAll
     static void setupEnvironment() {
         Configuration.browserSize = "1920x1080";
